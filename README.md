@@ -4,7 +4,7 @@ L'objectif du projet est de mettre en place une architecture type "botnet" afin 
 
 ## Pour commencer
 
-Vous trouverez tous les fichiers et dossiers liés à ce projet sur ce dépôt git. Clonez l'ensemble de notre répertoire à l'aide de la commande ``git clone https://archives.plil.fr/egury/botnetFauchoisGury.git`` pour passer à la suite.
+Vous trouverez tous les fichiers et dossiers liés à ce projet sur ce dépôt git. Clonez l'ensemble de notre répertoire à l'aide de la commande ``git clone https://github.com/Gfou/projetBotnet.git`` pour passer à la suite.
 
 Présentons rapidement les différents composants du projet et leur fonctionnement :
 
